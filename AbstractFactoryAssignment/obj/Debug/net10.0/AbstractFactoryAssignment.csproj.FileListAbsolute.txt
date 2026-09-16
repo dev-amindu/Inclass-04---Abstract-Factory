@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\bin\Debug\net10.0\AbstractFactoryAssignment.exe
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\bin\Debug\net10.0\AbstractFactoryAssignment.deps.json
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\bin\Debug\net10.0\AbstractFactoryAssignment.runtimeconfig.json
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\bin\Debug\net10.0\AbstractFactoryAssignment.dll
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\bin\Debug\net10.0\AbstractFactoryAssignment.pdb
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.AssemblyInfo.cs
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.dll
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\refint\AbstractFactoryAssignment.dll
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.pdb
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.genruntimeconfig.cache
+C:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\ref\AbstractFactoryAssignment.dll
+c:\Users\MSI\Desktop\AMINDU\University\Year 2\Semester 2\SA\Assignment\AbstractFactoryAssignment\obj\Debug\net10.0\AbstractFactoryAssignment.sourcelink.json
